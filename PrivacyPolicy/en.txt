@@ -1,0 +1,43 @@
+Privacy policy description
+
+This Privacy Policy describes our privacy data related policies and practices, which will cover how we collect, use, process, store and / or disclose personal information about you collected through our mobile app. Please read our privacy policy carefully.
+
+1、 How does the company collect your personal information
+
+Personal information is data that can be used to uniquely identify or contact someone.
+
+When you use the company's mobile app, we will collect your personal information, such as email address and phone number, during the process of registering users. In order to protect personal privacy, you should not provide any other information except for the special requirements of the company.
+
+2、 How does the company use your personal information
+
+1. Send you the service information of our mobile app through your personal information.
+
+2. Realize the password retrieval function through your personal information.
+
+3. The company will not provide, sell, lease, share or trade your personal information to any irrelevant third party except for the reorganization, merger or sale of the company, which can transfer all personal information collected by us to relevant third parties. Unless you have obtained your permission in advance, or the third party and the company provide services for you alone or jointly, and after the service is completed, It will be prohibited from accessing, including all such information that it has previously been able to access.
+
+3、 Personal information security
+
+It is very important for us to ensure the security of your personal data. When you register and input personal data in our mobile app, we will use secure socket layer technology (SSL) to encrypt these information.
+
+In the two stages of data transmission and data storage, we will protect the information you submit to us through widely accepted industry standards (such as firewall, encryption and data privacy legal requirements).
+
+However, no Internet transmission or electronic storage method is 100% secure. Therefore, although we protect your personal information in a commercially acceptable way, we still cannot guarantee the absolute security of your information.
+
+4、 How long will the company keep personal information
+
+Generally speaking, the company will only retain your personal information for the period required for the purpose of collection, and will comply with the data retention period specified by applicable laws.
+
+5、 Legal Disclaimer
+
+When the company considers that the company has the right to disclose your information or the legal procedures applicable to the company or the judicial procedures of the company, you must comply with the legal requirements of the company or the judicial procedures applicable to the mobile chain.
+
+If the company determines that disclosure is reasonably necessary to implement the company's terms and conditions or protect our business, we may disclose information related to you.
+
+6、 Changes to this Privacy Policy
+
+If we decide to change the privacy policy, we will publish these changes in this policy, on our website and where we think appropriate, so that you can understand how we collect and use your personal information, who can access it, and under what circumstances we will disclose it.
+
+7、 Privacy issues
+
+If you have any questions or concerns about our privacy policy or data processing, please email us 415617870@qq.com Contact our company.
